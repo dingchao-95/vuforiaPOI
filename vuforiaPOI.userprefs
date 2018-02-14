@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\googleAPI.cs">
+    <Files>
+      <File FileName="Assets\GPS.cs" Line="55" Column="3" />
+      <File FileName="Assets\Compass.cs" Line="1" Column="1" />
+      <File FileName="Assets\augmented.cs" Line="1" Column="1" />
+      <File FileName="Assets\touchItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\disableAR.cs" Line="1" Column="1" />
+      <File FileName="Assets\ControlScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\backToMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\localizationScrit.cs" Line="1" Column="1" />
+      <File FileName="Assets\googleAPI.cs" Line="100" Column="204" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
